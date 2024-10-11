@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002311854a54498823de222a7ee2a2c" nativeplatform="Steam" nativeuserid="76561198032290813" playername="jaegermeisterbitte" lastlogin="2024-10-04 22:40:14" position="521,55,407">
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <lpblock pos="156,61,545" />
+    <bedroll pos="156,62,545" />
+  </player>
+  <player platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" nativeplatform="Steam" nativeuserid="76561198264976640" playername="Raupi" lastlogin="2024-10-04 23:33:18" position="815,61,650">
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="0002311854a54498823de222a7ee2a2c" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <lpblock pos="-460,61,516" />
+    <questpositions>
+      <position id="806867026" positiondatatype="4" pos="-459,58,570" />
+      <position id="806867026" positiondatatype="0" pos="-535,62,480" />
+      <position id="806867026" positiondatatype="1" pos="-459,58,570" />
+      <position id="806867026" positiondatatype="7" pos="-459,60,570" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" nativeplatform="Steam" nativeuserid="76561198050058235" playername="Xandoras" lastlogin="2024-10-05 00:41:03" position="-527,61,500">
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <lpblock pos="-487,61,420" />
+    <bedroll pos="561,68,958" />
+  </player>
+  <player platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" nativeplatform="Steam" nativeuserid="76561198072377455" playername="Xutoos" lastlogin="2024-10-05 00:40:25" position="-544,61,473">
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <lpblock pos="-529,61,340" />
+    <bedroll pos="556,68,958" />
+  </player>
+  <player platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" nativeplatform="Steam" nativeuserid="76561198151907552" playername="Oinosseus" lastlogin="2024-10-05 22:07:36" position="-231,58,434">
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="00024ab041a44a2fbd82579e0bdbb5c8" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <acl platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <backpack id="1060" pos="-851,62,620" timestamp="10566" />
+    <backpack id="1074" pos="-834,61,607" timestamp="10628" />
+    <bedroll pos="560,63,954" />
+  </player>
+  <player platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" nativeplatform="Steam" nativeuserid="76561198008764292" playername="Smoothoperater" lastlogin="2024-10-05 00:29:47" position="-792,63,250">
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="00024ab041a44a2fbd82579e0bdbb5c8" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <acl platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="0002311854a54498823de222a7ee2a2c" />
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <backpack id="2349" pos="-791,63,250" timestamp="13954" />
+    <bedroll pos="556,63,963" />
+  </player>
+  <player platform="EOS" userid="00024ab041a44a2fbd82579e0bdbb5c8" nativeplatform="Steam" nativeuserid="76561198014068429" playername="xxmayhem" lastlogin="2024-10-04 22:41:24" position="4,66,883">
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <lpblock pos="0,66,886" />
+    <backpack id="1071" pos="-1238,62,234" timestamp="10614" />
+    <backpack id="1090" pos="-1309,59,370" timestamp="10676" />
+    <questpositions>
+      <position id="-365809220" positiondatatype="4" pos="-711,60,678" />
+      <position id="-365809220" positiondatatype="0" pos="-535,62,480" />
+      <position id="-365809220" positiondatatype="1" pos="-711,60,678" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="000234aa16df43d4882752f010320186" nativeplatform="Steam" nativeuserid="76561199787684134" playername="blech" lastlogin="2024-10-04 23:52:53" position="-36,62,482">
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="00024ab041a44a2fbd82579e0bdbb5c8" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <lpblock pos="-413,61,482" />
+    <bedroll pos="-237,68,480" />
+  </player>
+  <player platform="EOS" userid="00026feea22b488f81ec9247c69e5990" nativeplatform="Steam" nativeuserid="76561198069854394" playername="EDGE" lastlogin="2024-10-05 00:10:53" position="-941,99,1100">
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="0002923a8c97497da69b446f38138221" />
+    <acl platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <lpblock pos="-942,95,1097" />
+    <questpositions>
+      <position id="-2058854473" positiondatatype="2" pos="-958,93,1064" />
+      <position id="-2058854473" positiondatatype="0" pos="-535,62,480" />
+      <position id="-2058854473" positiondatatype="7" pos="-943,99,1113" />
+      <position id="-2058854473" positiondatatype="5" pos="-939,95,1098" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="0002923a8c97497da69b446f38138221" nativeplatform="Steam" nativeuserid="76561197992000585" playername="Thaiminator" lastlogin="2024-10-05 00:09:43" position="561,63,955">
+    <acl platform="EOS" userid="000234aa16df43d4882752f010320186" />
+    <acl platform="EOS" userid="00026feea22b488f81ec9247c69e5990" />
+    <acl platform="EOS" userid="0002826463ef422c92a8792cbd76c9c3" />
+    <acl platform="EOS" userid="0002229fed504a8bae4b2e2306ff3680" />
+    <acl platform="EOS" userid="00026d5d3b3645b5aa53fdc77dead73d" />
+    <acl platform="EOS" userid="0002587a36ca47d5ba38bbea46c7f020" />
+    <acl platform="EOS" userid="000231c5cd754655bd51e4cd121a9edd" />
+    <backpack id="2251" pos="119,57,872" timestamp="13443" />
+    <bedroll pos="556,63,966" />
+    <questpositions>
+      <position id="-1470186677" positiondatatype="2" pos="-566,63,469" />
+    </questpositions>
+  </player>
+  <player platform="EOS" userid="0002530129354866a21a8264cb504f98" nativeplatform="Steam" nativeuserid="76561198054048035" playername="Lucas96" lastlogin="2024-10-04 23:34:57" position="567,61,1277">
+    <lpblock pos="557,62,1291" />
+    <backpack id="2065" pos="566,61,1277" timestamp="12776" />
+  </player>
+</persistentplayerdata>
